@@ -14,3 +14,5 @@ Files:
 pokemon_scarlet_violet.csv: Cleaned CSV File of the Pokemons scraped from the PokemonDB site. This includes all the columns required to answer the questions.
 
 Final Project - Pokemon Analyzer.ipynb: This is my fill Jupyter notebook, it goes over everything from how I scraped my data parsed and collected date, then organized the data and cleaned it. I then display how I answer my questions using plots and graphs.
+
+Pokemon Data Analysis (Scarlet_Violet).pptx: The presentation for my entire project, showcasing the work I have done.
