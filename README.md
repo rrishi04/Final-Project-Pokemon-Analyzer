@@ -13,4 +13,4 @@ Questions: (I decided to use in my study)
 Files:
 2024.csv: Normal CSV File, uncleaned data for the 2024 data. Altered and modified this CSV in order to make clean CSV files for the corresponding years.
 
-.ipynb: This is my fill Jupyter notebook, it goes over everything from how I scraped my data parsed and collected date, then organized the data and cleaned it. I then display how I answer my questions using plots and graphs.
+Final Project - Pokemon Analyzer.ipynb: This is my fill Jupyter notebook, it goes over everything from how I scraped my data parsed and collected date, then organized the data and cleaned it. I then display how I answer my questions using plots and graphs.
