@@ -1,7 +1,7 @@
 # Final-Project-Pokemon-Analyzer
 
 Purpose of Study:
-This project's purpose is to preform data analysis on survey data from CCM. The survey provides data on the students who attended CCM and their "background" with their reason as to why they were influenced to join CCM. The goal is to provide an anaylsis to help the Computing department gain more enrollments. We are taskedd to use python to anaylze the data and create graphs to answer data driven questions. This quiestions will help the admission office in gaining a new perspective and giving them an idea on how to gain more computing enrollments. 
+The purpose of this project is to perform data analysis on the pokemon data from paldea region (Scarlet/Violet). The dataset provides stats for pokemon, including their base stats, types, catch rates, and egg cycles. The goal is to analyze these values to find insights that can help players enhance their gameplay.
 
 Questions: (I decided to use in my study)
 1. What are the top 5 Pokémon with the highest total base stats?
